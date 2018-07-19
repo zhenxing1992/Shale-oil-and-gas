@@ -1,0 +1,5 @@
+pytorch 0.4.0
+python 3.6
+windows 10
+pandas
+matplotlib
